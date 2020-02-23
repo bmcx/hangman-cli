@@ -1,6 +1,5 @@
 # Hangman CLI
 
-
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 Hangman is a popular word game,and using python I created a CLI version of it, 
@@ -9,8 +8,6 @@ Hangman is a popular word game,and using python I created a CLI version of it,
 
 ![GIF](preview.gif)
 
-
-
 ### Setup :wrench:
 
 - Clone this repo to your local machine using 
@@ -18,7 +15,6 @@ Hangman is a popular word game,and using python I created a CLI version of it,
 
 - Then simply run the script using 
 `python hangman.py`
-
 
 ### TODO :clipboard: 
 - [ ] Create a Game Menu 
