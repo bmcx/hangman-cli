@@ -70,7 +70,7 @@ def drawLevel(man, word, mistakes, answer, letterCount, tried, score):
     print(' '.join(answer) if letterCount > 0 else ' '.join(answer)+"\n\nCongratulations!!\n The word is correct" )
     print( "\nSorry you are DEAD!! x_x \n The word is "+word if mistakes >= 6 else '')
     if(tried and letterCount > 0):
-        print("✘ : " + ' '.join(tried))
+        print("X : " + ' '.join(tried))
 
 def getInput(tried):
     ok = False
